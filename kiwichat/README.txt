@@ -30,7 +30,7 @@ Custom KiwiChat Home Page [KiwiChat](https://custom.kiwichat.ml "KiwiChat")
 
 == Installation ==
 
-1. Upload the "plugin_icon" folder to the "/wp-content/plugins/" directory.
+1. Upload the "yourplugin" folder to the "/wp-content/plugins/" directory.
 2. Activate the plugin through the "Plugins" menu in WordPress.
 3. Place shortcode in your pages or posts:
 
