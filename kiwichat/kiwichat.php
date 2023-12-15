@@ -32,7 +32,7 @@ function customkiwichat_plugin_links( $actions, $plugin_file ) {
 
     if ( $plugin == $plugin_file ) {
         $settings = array('settings' => '<a href="admin.php?page=custom-kiwichat-settings">Configurare</a>');
-        $site_link = array('support' => '<a href="https://custom.kiwichat.ml/help" target="_blank">Support</a>');
+        $site_link = array('support' => '<a href="https://custom.kiwichat.org/help" target="_blank">Support</a>');
         $actions = array_merge($site_link, $actions);
         $actions = array_merge($settings, $actions);
     }
