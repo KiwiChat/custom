@@ -4,7 +4,7 @@ IRC client based on kiwiirc supports direct websocket connections to IRC servers
 
 ## How to Use?
 
-Go to [https://custom.kiwichat.ml](https://custom.kiwichat.ml/).
+Go to [https://custom.kiwichat.org](https://custom.kiwichat.org/).
 
 Configure your settings, simply download and it into your plugins folder.
 Configure your settings in the WordPress dashboard then drop the short tag: ```[customkiwichat]``` into your page or post.
