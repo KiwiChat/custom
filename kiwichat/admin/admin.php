@@ -77,7 +77,7 @@ function customkiwichat_settingspage() {
             <br/>
         </div>
 	        <div class="card pressthis">
-        <p>For more documentation on usage and configuration <a href="https://custom.kiwichat.ml" target="_blank" title="Documentatie">Click Here</a></p>
+        <p>For more documentation on usage and configuration <a href="https://custom.kiwichat.org" target="_blank" title="Documentatie">Click Here</a></p>
 		<p>Current stable version of the plugin 1.0</p>
         <br/>
         </div>
