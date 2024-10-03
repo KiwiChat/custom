@@ -2,8 +2,8 @@
 Contributors: kiwichat
 Tags: IRC, chat, webchat, kiwi, kiwiirc, nextclient, kiwiirc nextclient, embed, embedded, live chat, irc client, kiwichat, custom kiwichat
 Donate link: https://kiwichat.github.io
-Requires at least: 5.0
-Tested up to: 5.8
+Requires at least: 6.0
+Tested up to: 6.2
 Requires PHP: 5.6
 Stable tag: 1.0
 License: GPLv3 or later
@@ -25,7 +25,7 @@ Instantly your users will be able to stay connected via IRC.
 == Frequently Asked Questions ==
 
 Do you have something to say? Do you need help?
-Custom KiwiChat Home Page [KiwiChat](https://custom.kiwichat.ml "KiwiChat")
+Custom KiwiChat Home Page [KiwiChat](https://custom.kiwichat.org "KiwiChat")
 
 
 == Installation ==
